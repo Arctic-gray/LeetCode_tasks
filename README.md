@@ -1,2 +1,5 @@
 # LeetCode_tasks
-Submitions from my LeetCode 
+
+Содержит мои варианты решения задач с LeetCode. <br>
+
+Все представленые решения написаны на python. 
